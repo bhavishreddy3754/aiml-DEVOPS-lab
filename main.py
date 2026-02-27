@@ -1,1 +1,0 @@
-print("Declare the war against the code")
