@@ -1,1 +1,1 @@
-print("Hello World")
+print("Declare the war against the code")
